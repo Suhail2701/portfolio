@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Swigato",
+        "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+        "category": "react",
+        "image":"project1",
+        "links": {
+          "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+          "code": "https://github.com/jigar-sable/notystack-android"
+        }
+    },
+    {
+        "name": "Netflix-GPT",
+        "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+        "category": "react",
+        "image":"project2",
+        "links": {
+          "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+          "code": "https://github.com/jigar-sable/notystack-android"
+        }
+    },
+    {
+      "name": "Portfolio",
+      "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+      "category": "react",
+      "image":"project3",
+      "links": {
+        "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+        "code": "https://github.com/jigar-sable/notystack-android"
+      }
+  },
+    {
+        "name": "Insurance",
+        "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+        "category": "javascript",
+        "image":"project4",
+        "links": {
+          "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+          "code": "https://github.com/jigar-sable/notystack-android"
+        }
+    },
+    {
+        "name": "Employee Dtabase Management",
+        "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+        "category": "javascript",
+        "image":"project5",
+        "links": {
+          "view": "https://3rdfj7.csb.app/",
+          "code": "https://codesandbox.io/p/sandbox/reverent-frog-3rdfj7"
+        }
+    },
+    {
+        "name": "CountDown Timer",
+        "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+        "category": "javascript",
+        "image":"project6",
+        "links": {
+          "view": "https://lpx9ht.csb.app/",
+          "code": "https://codesandbox.io/p/sandbox/timer-lpx9ht"
+        }
+    },
+    {
+      "name": "Progress bar",
+      "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+      "category": "javascript",
+      "image":"project7",
+      "links": {
+        "view": "https://jkcylz.csb.app/",
+        "code": "https://codesandbox.io/p/sandbox/progress-bar-jkcylz?file=%2Fsrc%2Fcomponents%2FProgressBar.js%3A9%2C20"
+      }
+  },
+  {
+    "name": "Pagination",
+    "desc": "Swigato is a food ordering application that serves as a clone of Swiggy. It is built using technologies such as React, Redux Toolkit, and Tailwind CSS. Swigato utilizes the live API of the Swiggy website to fetch and display data",
+    "category": "javascript",
+    "image":"project8",
+    "links": {
+      "view": "https://p4n5w2.csb.app/",
+      "code": "https://codesandbox.io/p/sandbox/timer-lpx9ht"
+    }
+}
+]
